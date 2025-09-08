@@ -31,7 +31,7 @@ The script will automatically check and prompt you to install any missing depend
 
 **## ⚙️ Installation**  
 \`\`\`bash  
-git clone https://github.com/\<yourusername\>/Origins.git  
+git clone https://github.com/<yourusername\>/Origins.git  
 cd Origins  
 chmod \+x Origins.sh
 
